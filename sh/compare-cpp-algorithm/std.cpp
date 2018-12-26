@@ -1,49 +1,64 @@
-#include <cstdio>
-#include <vector>
-#include <cmath>
+#include <stdio.h>
+#include <string.h>
 #include <algorithm>
-#include <iostream>
-#include <string>
-#include <cstring>
-#include <complex>
-#include <queue>
-#include <functional>
-
 using namespace std;
-const int maxx = 1e6+5;
-int Left[maxx],Right[maxx];
-int thinking[maxx];
-int main()
-{
-     int n,x;
-    while(~scanf("%d",&n))
-    {
-        for(int i = 0;i<n;i++)
-        {
-            scanf("%d",&thinking[i]);
-        }
-        for(int i = 0;i<n;i++)
-        {
-            Left[i]=1;Right[i]=1;
-        }
+#define M 600005
+#define INF 10000000
+#define RCL(a, b) memset(a, b, sizeof(a))
 
-        for(int i= 1;i<n;i++)
+int n, d, a[M], dp[M], f[M];
+
+int my_bound(int val)
+{
+    int left = 1, right = n, mid, ans;
+    while(left <= right)
+    {
+        mid = (left + right) / 2;
+        if(val > f[mid])
         {
-            if(thinking[i]>thinking[i-1])
-                Left[i]=Left[i-1]+1;
+            left = mid + 1;
         }
-        for(int i = n-2;i>=0;i--)
+        else
         {
-            if(thinking[i]>thinking[i+1])
-                Right[i]=Right[i+1]+1;
+            right = mid - 1;
         }
-        int res = 0;
-        for(int i = 0;i<n;i++){
-            cout<<max(Left[i],Right[i])<<" ";
-            res += max(Left[i],Right[i]);
-        }
-        cout<<endl;
-        printf("%d\n",res);
     }
 
+    return left;
+}
+int solve()
+{
+    int ans = 0, k;
+    for(int i=1; i<=n; i++)
+    {
+        dp[i] = my_bound(a[i]);
+        if(dp[i] > ans)
+        {
+            ans = dp[i];
+        }
+
+        k = i - d;
+        if(k > 0 && f[dp[k]] > a[k])
+        {
+            f[dp[k]] = a[k];
+        }
+    }
+
+    return ans;
+}
+int main()
+{
+    while(scanf("%d%d", &n, &d) != EOF)
+    {
+d--;        
+for(int i=1; i<=n; i++)
+        {
+            scanf("%d", &a[i]);
+            f[i] = INF;
+        }
+        int ans = solve();
+        printf("%d\n", ans);
+    }
+
+    return 0;
 }
