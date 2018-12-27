@@ -1,64 +1,32 @@
-#include <stdio.h>
-#include <string.h>
-#include <algorithm>
-using namespace std;
-#define M 600005
-#define INF 10000000
-#define RCL(a, b) memset(a, b, sizeof(a))
+#include <cstdio>
+#include <cstring>
 
-int n, d, a[M], dp[M], f[M];
+int n, sum;
+int V;//背包体积
+int N[1005];//把数量同时看作物品的体积和价值
+int dp[50005];
 
-int my_bound(int val)
-{
-    int left = 1, right = n, mid, ans;
-    while(left <= right)
-    {
-        mid = (left + right) / 2;
-        if(val > f[mid])
-        {
-            left = mid + 1;
-        }
-        else
-        {
-            right = mid - 1;
-        }
-    }
-
-    return left;
-}
-int solve()
-{
-    int ans = 0, k;
-    for(int i=1; i<=n; i++)
-    {
-        dp[i] = my_bound(a[i]);
-        if(dp[i] > ans)
-        {
-            ans = dp[i];
-        }
-
-        k = i - d;
-        if(k > 0 && f[dp[k]] > a[k])
-        {
-            f[dp[k]] = a[k];
-        }
-    }
-
-    return ans;
-}
 int main()
 {
-    while(scanf("%d%d", &n, &d) != EOF)
+    while(~scanf("%d", &n))
     {
-d--;        
-for(int i=1; i<=n; i++)
-        {
-            scanf("%d", &a[i]);
-            f[i] = INF;
+        sum = 0;
+        memset(dp, 0, sizeof(dp));
+        for (int i = 1; i <= n; ++i) {
+            scanf("%d", &N[i]);
+            sum += N[i];
         }
-        int ans = solve();
-        printf("%d\n", ans);
-    }
 
-    return 0;
+        V = sum / 2;//背包的体积
+        //01背包
+        for (int i = 1; i <= n; ++i) {
+            for (int j = V; j >= N[i]; --j) {
+                int temp = dp[j - N[i]] + N[i];
+                if(dp[j] < temp) dp[j] = temp;
+            }
+        }
+
+        if(sum - 2 * dp[V] == 0) printf("GF&SI\n");
+        else printf("%d\n", sum - 2 * dp[V]);
+    }
 }
