@@ -11,6 +11,9 @@ do
     if   test -s different.tmp 
     then
         cat different.tmp
+        echo ""
+        echo "me.out:  `cat me.out`"
+        echo "std.out: `cat std.out`"
         break
     else
         echo "OK!"

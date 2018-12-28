@@ -1,32 +1,61 @@
+#include <iostream>
 #include <cstdio>
-#include <cstring>
+#include <algorithm>
+#include <set>
 
-int n, sum;
-int V;//背包体积
-int N[1005];//把数量同时看作物品的体积和价值
-int dp[50005];
+using namespace std;
+
+const int MAX = 200000;
+
+void work(int n,int a[],int b[],int target)
+{
+    sort(a,a+n);
+    sort(b,b+n);
+    int flag=0;
+    int tmp;
+    for (int i = 0; i < n; ++i) {
+        if (a[i]+b[0]>target)
+            break;
+        if (a[i]==a[i-1])
+            continue;
+        tmp=target-a[i];
+        if (binary_search(b,b+n,tmp))
+        {
+            printf("%d %d\n",a[i],tmp);
+            flag=1;
+        }
+    }
+    if (flag==0)
+    {
+        printf("OTZ\n\n");
+        return ;
+    }
+    printf("\n");
+    return ;
+}
+
+int a[MAX];
+int b[MAX];
+
+void shuru(int a[],int n)
+{
+    for (int i = 0; i < n; ++i) {
+        scanf("%d",&a[i]);
+    }
+    return ;
+}
 
 int main()
 {
-    while(~scanf("%d", &n))
+    //freopen("in.txt","r",stdin);
+    int n;
+    int target;
+    while(scanf("%d",&n)!=EOF)
     {
-        sum = 0;
-        memset(dp, 0, sizeof(dp));
-        for (int i = 1; i <= n; ++i) {
-            scanf("%d", &N[i]);
-            sum += N[i];
-        }
-
-        V = sum / 2;//背包的体积
-        //01背包
-        for (int i = 1; i <= n; ++i) {
-            for (int j = V; j >= N[i]; --j) {
-                int temp = dp[j - N[i]] + N[i];
-                if(dp[j] < temp) dp[j] = temp;
-            }
-        }
-
-        if(sum - 2 * dp[V] == 0) printf("GF&SI\n");
-        else printf("%d\n", sum - 2 * dp[V]);
+        shuru(a,n);
+        shuru(b,n);
+        scanf("%d",&target);
+        work(n,a,b,target);
     }
+    return 0;
 }

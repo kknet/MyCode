@@ -9,32 +9,46 @@
 #include <functional>
 #include <iomanip>
 #include <cmath>
+#include <stack>
 
 using namespace std;
-const int Max = 1000005;
-int dp[Max];
-int V;
-inline void ZeroOnePack(int value,int volume){
-    for(int v = V;v>=volume;v--)
-        dp[v] = max(dp[v],dp[v-volume]+value);
-}
-int nums[Max];
+const int Max = 50005;
+
 int main() {
-    int n,sum = 0;
+    long long n,t;
     while(cin>>n){
-        sum = 0;
+        vector<long long> a,b;
+        a.clear();b.clear();
+        long long tmp;
         for(int i = 1;i<=n;i++){
-            cin>>nums[i];
-            sum += nums[i];
+            cin>>tmp;
+            a.push_back(tmp);
         }
-        V = sum/2;
-        for(int i = 0;i<=V;i++) dp[i] = 0;
         for(int i = 1;i<=n;i++){
-            ZeroOnePack(nums[i],nums[i]);
+            cin>>tmp;
+            b.push_back(tmp);
         }
-        int ans = *max_element(dp+1,dp+V+1);
-        if(ans*2 == sum) cout<<"GF&SI"<<endl;
-        else cout<<sum - ans - ans<<endl;
+        cin>>t;
+        a.erase(unique(a.begin(),a.end()),a.end());
+        b.erase(unique(b.begin(),b.end()),b.end());
+        sort(a.begin(),a.end());
+        sort(b.begin(),b.end());
+        int len1 = (int)a.size();
+        int len2 = (int)b.size();
+        int i = 0;
+        int j = len2-1;
+        bool flag = false;
+        for(;i<len1;i++){
+            if(j<0) break;
+            if(a[i]+b[j]<t) continue;
+            while(j>0 && a[i]+b[j]>t) j--;
+            if(j>=0 && a[i]+b[j]==t) {
+                flag = true;
+                cout<<a[i]<<" "<<b[j]<<endl;
+            }
+        }
+        if(!flag) cout<<"OTZ"<<endl<<endl;
+        else cout<<endl;
     }
     return 0;
 }
