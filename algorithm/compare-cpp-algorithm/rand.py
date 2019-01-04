@@ -2,14 +2,11 @@
 
 import random
 
-n = random.randint(1,100000)
 n = 10
-m = 10
-k = random.randint(1,m+n)
-print(n,m,k,sep = " ")
-for i in range(0,n):
-    print(random.randint(0,9),end = " ")
-print("")
-for i in range(0,m):
-    print(random.randint(0,9),end = " ")
-print("")
+alpha = ['0','1','2','3','4','5','6','7','8','9','#']
+for i in range(n):
+    string = ""
+    lenth = random.randint(1,10)
+    for j in range(lenth):
+        string = string + alpha[random.randint(0,10)]
+    print(string)
