@@ -12,6 +12,7 @@ do
     then
         cat different.tmp
         echo ""
+        echo "data: `cat data`"
         echo "me.out:  `cat me.out`"
         echo "std.out: `cat std.out`"
         break
