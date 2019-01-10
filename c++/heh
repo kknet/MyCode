@@ -1,1 +1,0 @@
-g++ csapp.cpp -o a.out
