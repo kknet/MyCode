@@ -5,6 +5,9 @@ int g(){
     return x;
 }
 
+int b = 7;
+int yu = 8;
+
 int main(){
     printf("%d\n",g());
     printf("%d\n",g());

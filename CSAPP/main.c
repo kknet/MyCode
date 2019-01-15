@@ -1,8 +1,10 @@
-void swap();
-
+#include <stdio.h>
+void foo(void);
 int buf[2] = {1,2};
+int a ;
+int b;
 
 int main(){
-    swap();
-    return 0;
+    //foo();
+    printf("%d\n",a);
 }
