@@ -10,7 +10,7 @@ bool isLegal(string s)
     if(s[0] == '0') return false;
     else
     {
-        for(int i = 1; i < s.length(); i++)
+        for(int i = 1; i < (int)s.length(); i++)
         {
             if(s[i] == '0' && (s[i-1] < '1' || s[i-1] > '2'))
                 return false;

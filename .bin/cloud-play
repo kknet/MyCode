@@ -1,0 +1,2 @@
+#! /usr/bin/bash
+mplayer -playlist ~/.cloudmusic/list -shuffle
