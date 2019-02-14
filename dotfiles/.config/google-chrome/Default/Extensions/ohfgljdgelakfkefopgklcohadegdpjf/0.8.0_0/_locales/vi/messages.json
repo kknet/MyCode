@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Các công cụ PDF Dễ-sử-dụng Smallpdf"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Nén"
+   },
+   "converter": {
+      "message": "Chuyển đổi"
+   },
+   "delete": {
+      "message": "Xóa Trang"
+   },
+   "downloadCta": {
+      "message": "Tải về ngay"
+   },
+   "edit": {
+      "message": "Chỉnh sửa"
+   },
+   "excel": {
+      "message": "Excel sang PDF"
+   },
+   "extract": {
+      "message": "PDF sang JPG"
+   },
+   "fileIsReady": {
+      "message": "Tệp của bạn đã sẵn sàng"
+   },
+   "jpg": {
+      "message": "JPG sang PDF"
+   },
+   "merge": {
+      "message": "Ghép"
+   },
+   "noInternetConnection": {
+      "message": "Không có kết nối internet"
+   },
+   "pdf_to_excel": {
+      "message": "PDF sang Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF sang PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF sang Word"
+   },
+   "ppt": {
+      "message": "PPT sang PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Rất tiếc, đã có sự cố khi xử lý tệp của bạn"
+   },
+   "processingFailedTitle": {
+      "message": "Xử lý không thành công"
+   },
+   "protect": {
+      "message": "Bảo vệ"
+   },
+   "rotate": {
+      "message": "Xoay"
+   },
+   "sign": {
+      "message": "Ký tên"
+   },
+   "split": {
+      "message": "Tách"
+   },
+   "tools": {
+      "message": "Công cụ"
+   },
+   "unlock": {
+      "message": "Mở khóa"
+   },
+   "uploadFailed": {
+      "message": "Xin lỗi, việc tải lên đã thất bại"
+   },
+   "word": {
+      "message": "Word sang PDF"
+   }
+}

@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Eenvoudige pdf-hulpmiddelen"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Verkleinen"
+   },
+   "converter": {
+      "message": "Converteren"
+   },
+   "delete": {
+      "message": "Pagina's verwijderen"
+   },
+   "downloadCta": {
+      "message": "Downloaden"
+   },
+   "edit": {
+      "message": "Bijwerken"
+   },
+   "excel": {
+      "message": "Excel naar PDF"
+   },
+   "extract": {
+      "message": "PDF naar JPG"
+   },
+   "fileIsReady": {
+      "message": "Uw bestand is gereed"
+   },
+   "jpg": {
+      "message": "JPG naar PDF"
+   },
+   "merge": {
+      "message": "Samenvoegen"
+   },
+   "noInternetConnection": {
+      "message": "Geen internetverbinding"
+   },
+   "pdf_to_excel": {
+      "message": "PDF naar Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF naar PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF naar Word"
+   },
+   "ppt": {
+      "message": "PPT naar PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Sorry, er was een probleem met het verwerken van uw bestand"
+   },
+   "processingFailedTitle": {
+      "message": "Verwerken is mislukt"
+   },
+   "protect": {
+      "message": "Beschermen"
+   },
+   "rotate": {
+      "message": "Draaien"
+   },
+   "sign": {
+      "message": "Tekenen"
+   },
+   "split": {
+      "message": "Splitsen"
+   },
+   "tools": {
+      "message": "Gereedschap"
+   },
+   "unlock": {
+      "message": "Vrijgeven"
+   },
+   "uploadFailed": {
+      "message": "Sorry je upload is mislukt"
+   },
+   "word": {
+      "message": "Word naar PDF"
+   }
+}

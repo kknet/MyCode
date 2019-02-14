@@ -1,0 +1,23 @@
+#! /bin/zsh
+
+
+    export http_proxy=http://`cat ~/.lantern/settings.yaml | grep -Eo 'addr: (.*)' | sed "s/addr: //g"`
+    if [ $? -ne 0 ]
+    then
+        echo "change http_proxy failed"
+    else
+        echo "changing http_proxy ......"
+    fi
+
+
+
+
+    export https_proxy=http://`cat ~/.lantern/settings.yaml | grep -Eo 'addr: (.*)' | sed "s/addr: //g"`
+    if [ $? -ne 0 ]
+    then
+        echo "change https_proxy failed"
+    else
+        echo "changing https_proxy ......"
+    fi
+        
+

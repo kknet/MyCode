@@ -1,0 +1,49 @@
+2019/02/07-15:15:24.438 549 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/02/07-15:15:24.441 549 Recovering log #254
+2019/02/07-15:15:24.442 549 Reusing old log leveldb/000254.log 
+2019/02/07-15:17:19.982 748 Level-0 table #258: started
+2019/02/07-15:17:19.987 748 Level-0 table #258: 16687 bytes OK
+2019/02/07-15:17:19.991 748 Delete type=0 #254
+2019/02/07-15:20:41.381 7ec Level-0 table #260: started
+2019/02/07-15:20:41.385 7ec Level-0 table #260: 97199 bytes OK
+2019/02/07-15:20:41.387 7ec Delete type=0 #257
+2019/02/07-15:20:41.387 7ec Compacting 4@0 + 1@1 files
+2019/02/07-15:20:41.426 7ec Generated table #261@0: 955 keys, 2002459 bytes
+2019/02/07-15:20:41.426 7ec Compacted 4@0 + 1@1 files => 2002459 bytes
+2019/02/07-15:20:41.428 7ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/07-15:20:41.428 7ec Delete type=2 #255
+2019/02/07-15:20:41.428 7ec Delete type=2 #253
+2019/02/07-15:20:41.428 7ec Delete type=2 #250
+2019/02/07-15:20:41.429 7ec Delete type=2 #258
+2019/02/07-15:20:41.429 7ec Delete type=2 #260
+2019/02/07-15:20:50.118 540 Level-0 table #263: started
+2019/02/07-15:20:50.124 540 Level-0 table #263: 93175 bytes OK
+2019/02/07-15:20:50.127 540 Delete type=0 #259
+2019/02/07-15:21:07.978 8ea Level-0 table #265: started
+2019/02/07-15:21:07.987 8ea Level-0 table #265: 92910 bytes OK
+2019/02/07-15:21:07.989 8ea Delete type=0 #262
+2019/02/07-15:21:13.245 748 Level-0 table #267: started
+2019/02/07-15:21:13.253 748 Level-0 table #267: 92803 bytes OK
+2019/02/07-15:21:13.256 748 Delete type=0 #264
+2019/02/07-15:42:55.089 c0b Level-0 table #269: started
+2019/02/07-15:42:55.103 c0b Level-0 table #269: 415237 bytes OK
+2019/02/07-15:42:55.107 c0b Delete type=0 #266
+2019/02/07-15:42:55.107 c0b Compacting 4@0 + 1@1 files
+2019/02/07-15:42:55.168 c0b Generated table #270@0: 986 keys, 2276310 bytes
+2019/02/07-15:42:55.172 c0b Generated table #271@0: 8 keys, 2723 bytes
+2019/02/07-15:42:55.172 c0b Compacted 4@0 + 1@1 files => 2279033 bytes
+2019/02/07-15:42:55.175 c0b compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/02/07-15:42:55.176 c0b Delete type=2 #265
+2019/02/07-15:42:55.176 c0b Delete type=2 #261
+2019/02/07-15:42:55.177 c0b Delete type=2 #269
+2019/02/07-15:42:55.178 c0b Delete type=2 #267
+2019/02/07-15:42:55.178 c0b Delete type=2 #263
+2019/02/07-16:36:16.143 1683 Level-0 table #273: started
+2019/02/07-16:36:16.150 1683 Level-0 table #273: 14679 bytes OK
+2019/02/07-16:36:16.154 1683 Delete type=0 #268
+2019/02/07-17:32:17.945 201a Level-0 table #275: started
+2019/02/07-17:32:17.952 201a Level-0 table #275: 14586 bytes OK
+2019/02/07-17:32:17.956 201a Delete type=0 #272
+2019/02/07-20:16:42.552 6ee9 Level-0 table #277: started
+2019/02/07-20:16:42.558 6ee9 Level-0 table #277: 15714 bytes OK
+2019/02/07-20:16:42.561 6ee9 Delete type=0 #274

@@ -1,0 +1,83 @@
+{
+  "appName": {
+    "message": "Smallpdf"
+  },
+  "appDesc": {
+    "message": "Smallpdf - 簡単に使えるPDFツール集"
+  },
+  "downloadCta": {
+    "message": "今すぐダウンロード"
+  },
+  "fileIsReady": {
+    "message": "ファイルの準備ができました"
+  },
+  "processingFailedMessage": {
+    "message": "申し訳ありません。ファイル処理時に問題が発生しました"
+  },
+  "processingFailedTitle": {
+    "message": "処理できませんでした"
+  },
+  "uploadFailed": {
+    "message": "アップロードに失敗しました。"
+  },
+  "noInternetConnection": {
+    "message": "インターネット接続がありません"
+  },
+  "tools": {
+    "message": "ツール"
+  },
+  "compress": {
+    "message": "圧縮"
+  },
+  "converter": {
+    "message": "変換"
+  },
+  "merge": {
+    "message": "結合"
+  },
+  "pdf_to_ppt": {
+    "message": "PDF PPT 変換"
+  },
+  "ppt": {
+    "message": "PPT PDF 変換"
+  },
+  "jpg": {
+    "message": "JPG PDF 変換"
+  },
+  "extract": {
+    "message": "PDF JPG 変換"
+  },
+  "excel": {
+    "message": "Excel PDF 変換"
+  },
+  "pdf_to_excel": {
+    "message": "PDF Excel 変換"
+  },
+  "delete": {
+    "message": "ページを削除"
+  },
+  "edit": {
+    "message": "編集"
+  },
+  "word": {
+    "message": "Word PDF 変換"
+  },
+  "split": {
+    "message": "分割"
+  },
+  "rotate": {
+    "message": "Rotate"
+  },
+  "sign": {
+    "message": "署名"
+  },
+  "unlock": {
+    "message": "ロック解除"
+  },
+  "protect": {
+    "message": "保護"
+  },
+  "pdf_to_word": {
+    "message": "PDF Word 変換"
+  }
+}

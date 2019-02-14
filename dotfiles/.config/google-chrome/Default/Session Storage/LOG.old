@@ -1,0 +1,30 @@
+2019/02/07-15:15:24.894 54a Reusing MANIFEST /home/loheagn/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/02/07-15:15:24.895 54a Recovering log #77
+2019/02/07-15:15:24.895 54a Reusing old log /home/loheagn/.config/google-chrome/Default/Session Storage/000077.log 
+2019/02/07-15:42:56.099 d2c Level-0 table #82: started
+2019/02/07-15:42:56.101 d2c Level-0 table #82: 17538 bytes OK
+2019/02/07-15:42:56.103 d2c Delete type=0 #77
+2019/02/07-16:32:27.120 d2c Level-0 table #84: started
+2019/02/07-16:32:27.123 d2c Level-0 table #84: 16416 bytes OK
+2019/02/07-16:32:27.126 d2c Delete type=0 #81
+2019/02/07-16:58:30.080 d2c Level-0 table #86: started
+2019/02/07-16:58:30.082 d2c Level-0 table #86: 19041 bytes OK
+2019/02/07-16:58:30.084 d2c Delete type=0 #83
+2019/02/07-18:24:50.703 d2c Level-0 table #88: started
+2019/02/07-18:24:50.707 d2c Level-0 table #88: 16618 bytes OK
+2019/02/07-18:24:50.709 d2c Delete type=0 #85
+2019/02/07-18:24:50.709 d2c Compacting 4@0 + 1@1 files
+2019/02/07-18:24:50.715 d2c Generated table #89@0: 1967 keys, 111827 bytes
+2019/02/07-18:24:50.715 d2c Compacted 4@0 + 1@1 files => 111827 bytes
+2019/02/07-18:24:50.717 d2c compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/02/07-18:24:50.717 d2c Delete type=2 #86
+2019/02/07-18:24:50.717 d2c Delete type=2 #88
+2019/02/07-18:24:50.717 d2c Delete type=2 #84
+2019/02/07-18:24:50.717 d2c Delete type=2 #79
+2019/02/07-18:24:50.717 d2c Delete type=2 #82
+2019/02/07-20:16:23.567 d2c Level-0 table #91: started
+2019/02/07-20:16:23.573 d2c Level-0 table #91: 24785 bytes OK
+2019/02/07-20:16:23.575 d2c Delete type=0 #87
+2019/02/07-20:37:24.694 d2c Level-0 table #93: started
+2019/02/07-20:37:24.696 d2c Level-0 table #93: 16593 bytes OK
+2019/02/07-20:37:24.704 d2c Delete type=0 #90

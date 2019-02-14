@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "स्‍मालपीडीएफ - पीडीएफ टूल्‍स प्रयोग में आसान"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "कंप्रेस"
+   },
+   "converter": {
+      "message": "कनवर्ट"
+   },
+   "delete": {
+      "message": "पृष्ठों को डिलीट करें"
+   },
+   "downloadCta": {
+      "message": "इसे अभी डाउनलोड करें"
+   },
+   "edit": {
+      "message": "संपादित करें"
+   },
+   "excel": {
+      "message": "एक्से्ल से पीडीएफ में"
+   },
+   "extract": {
+      "message": "पीडीएफ से जेपीजी में"
+   },
+   "fileIsReady": {
+      "message": "आपकी फाइल तैयार है"
+   },
+   "jpg": {
+      "message": "जेपीजी से पीडीएफ में"
+   },
+   "merge": {
+      "message": "मर्ज करें"
+   },
+   "noInternetConnection": {
+      "message": "इंटरनेट कनेक्शन नहीं है"
+   },
+   "pdf_to_excel": {
+      "message": "पीडीएफ से एक्सेपल में"
+   },
+   "pdf_to_ppt": {
+      "message": "पीडीएफ से पीपीटी में"
+   },
+   "pdf_to_word": {
+      "message": "पीडीएफ से वर्ड में"
+   },
+   "ppt": {
+      "message": "पीपीटी से पीडीएफ में"
+   },
+   "processingFailedMessage": {
+      "message": "क्षमा करें, आपकी फाइल परिवर्तित करने में एक समस्‍या थी"
+   },
+   "processingFailedTitle": {
+      "message": "प्रक्रिया विफल हुई"
+   },
+   "protect": {
+      "message": "सुरक्षित करें"
+   },
+   "rotate": {
+      "message": "घुमाएं"
+   },
+   "sign": {
+      "message": "साइन"
+   },
+   "split": {
+      "message": "विभाजित करें"
+   },
+   "tools": {
+      "message": "उपकरण"
+   },
+   "unlock": {
+      "message": "अनलॉक करें"
+   },
+   "uploadFailed": {
+      "message": "क्षमा आपका अपलोड असफल हो गया"
+   },
+   "word": {
+      "message": "वर्ड से पीडीएफ में"
+   }
+}

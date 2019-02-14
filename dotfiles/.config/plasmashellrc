@@ -1,0 +1,19 @@
+[Containments][2][General]
+AppletOrder=3;4;5;6;8
+
+[Containments][7][General]
+extraItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.discovernotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.ktp-contactlist,org.kde.plasma.vault
+knownItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.discovernotifier,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.clipboard,org.kde.ktp-contactlist,org.kde.plasma.vault
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_org.kde.latte-dock.desktop,3 services_keys.desktop,2 services_khotkeys.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=48
+
+[ScreenConnectors]
+0=eDP1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

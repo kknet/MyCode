@@ -1,0 +1,24 @@
+{
+    "telemetry.machineId": "4048b2c41ad496037048732894ad6404a82513aee12db128bb772e5913dc1f8d",
+    "openedPathsList": {
+        "workspaces2": [],
+        "files2": [
+            "file:///mnt/windows/Users/linan/beifen2/.i3/config"
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/loheagn/.config/Code/Backups/1548770274017",
+            "uiState": {
+                "mode": 1,
+                "x": 552,
+                "y": 20,
+                "width": 558,
+                "height": 674
+            }
+        }
+    }
+}

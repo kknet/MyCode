@@ -1,0 +1,5 @@
+[General]
+history=mocp,KRu,htop,sudo pacman -Rs firefox,neofetch,myrofi
+
+[PlasmaRunnerManager]
+LaunchCounts=1 windows_0_27262991,1 shell_sudo pacman -Rs firefox,1 services_htop.desktop

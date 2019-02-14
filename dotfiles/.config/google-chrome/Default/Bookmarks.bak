@@ -1,0 +1,671 @@
+{
+   "checksum": "caa174ce1acabceebb6103376fc532f4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13154621509902881",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13193212423169312"
+            },
+            "name": "六维空间",
+            "sync_transaction_version": "21",
+            "type": "url",
+            "url": "http://bt.neu6.edu.cn/forum.php"
+         }, {
+            "date_added": "13155791681591312",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13193746716479265"
+            },
+            "name": "MOOC",
+            "sync_transaction_version": "94",
+            "type": "url",
+            "url": "http://www.icourse163.org/"
+         }, {
+            "date_added": "13158144550522717",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13192821253162726"
+            },
+            "name": "未来花园",
+            "sync_transaction_version": "20",
+            "type": "url",
+            "url": "http://buaabt.cn/forumindex.aspx"
+         }, {
+            "date_added": "13158729875536951",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13191926980165389"
+            },
+            "name": "软院云平台",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "http://cloud.beihangsoft.cn/"
+         }, {
+            "date_added": "13159016347955365",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13187453514278872"
+            },
+            "name": "Wallhalla",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "https://wallhalla.com/"
+         }, {
+            "date_added": "13159809007358015",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13190983163391033"
+            },
+            "name": "北航图书馆",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "http://lib.buaa.edu.cn/"
+         }, {
+            "date_added": "13168689488050409",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13193669497451225"
+            },
+            "name": "蒲公英PT站",
+            "sync_transaction_version": "69",
+            "type": "url",
+            "url": "https://npupt.com/index.php"
+         }, {
+            "date_added": "13170067100987491",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13186062006402785"
+            },
+            "name": "云主机-控制台",
+            "sync_transaction_version": "17",
+            "type": "url",
+            "url": "https://console.cloud.tencent.com/cvm/index"
+         }, {
+            "date_added": "13170737011558579",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13188730031074125"
+            },
+            "name": "序章 · Windows Apps That Amaze Us",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN/"
+         }, {
+            "date_added": "13173848215331922",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13189490929236079"
+            },
+            "name": "在线翻译",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://fanyi.youdao.com/?keyfrom=dict2.index"
+         }, {
+            "date_added": "13174478342836374",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13191854224357550"
+            },
+            "name": "LeetCode - The World's Leading Online Programming Learning Platform",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://leetcode.com/"
+         }, {
+            "date_added": "13174668311266452",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13194014307855235"
+            },
+            "name": "Ping and mtr from multiple locations – baidu.com",
+            "sync_transaction_version": "173",
+            "type": "url",
+            "url": "http://ping.pe/baidu.com"
+         }, {
+            "date_added": "13174668940932682",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13175958936103614"
+            },
+            "name": "SSD Cloud Hosting & Linux Servers - Linode",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.linode.com/"
+         }, {
+            "date_added": "13174747464634204",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13179057922222867"
+            },
+            "name": "XAMPP FAQs for Linux",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.apachefriends.org/faq_linux.html"
+         }, {
+            "date_added": "13174756485025922",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13194014821167320"
+            },
+            "name": "Log In - Vultr.com",
+            "sync_transaction_version": "192",
+            "type": "url",
+            "url": "https://my.vultr.com/"
+         }, {
+            "date_added": "13174757001621014",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13194013098447627"
+            },
+            "name": "Vultr VPS主机快速安装SSR完整图文教程 | Vultr 优惠码 搭建ss 测速 日本 美国 便宜 vps 教程",
+            "sync_transaction_version": "136",
+            "type": "url",
+            "url": "http://vultr.aicnm.com/Vultr-VPS%E4%B8%BB%E6%9C%BA%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85SSR%E5%AE%8C%E6%95%B4%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B/"
+         }, {
+            "date_added": "13175100118711445",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13177861740100739"
+            },
+            "name": "10+ Best Windows 10 Themes",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.geekcosmos.com/best-windows-10-themes/"
+         }, {
+            "date_added": "13175284987185413",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13177816934494961"
+            },
+            "name": "Python - 网易云课堂",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://study.163.com/category/python#/?ot=50"
+         }, {
+            "date_added": "13175958917143566",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13178378574661976"
+            },
+            "name": "IPIP.NET_最专业的 IP 地址库_IPIP.NET",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.ipip.net/"
+         }, {
+            "date_added": "13176716722675272",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13191233429480947"
+            },
+            "name": "OJ4TH",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://buaacoding.cn/index"
+         }, {
+            "date_added": "13176984369023885",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13186041924726688"
+            },
+            "name": "Typing Practice for Programmers | typing.io",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://typing.io/"
+         }, {
+            "date_added": "13177760921003442",
+            "id": "26",
+            "meta_info": {
+               "last_visited_desktop": "13177760921004031"
+            },
+            "name": "python中文文档",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://yiyibooks.cn/xx/python_352/index.html"
+         }, {
+            "date_added": "13177861813298433",
+            "id": "27",
+            "meta_info": {
+               "last_visited_desktop": "13185009101812886"
+            },
+            "name": "我的小书屋-最新最全电子书免费下载",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://mebook.cc/"
+         }, {
+            "date_added": "13178120985279274",
+            "id": "28",
+            "meta_info": {
+               "last_visited_desktop": "13178342241357357"
+            },
+            "name": "Apache HTTP 服务器 2.4 文档 - Apache HTTP 服务器 版本 2.4",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://httpd.apache.org/docs/2.4/zh-cn/"
+         }, {
+            "date_added": "13178278073749028",
+            "id": "29",
+            "meta_info": {
+               "last_visited_desktop": "13178278073749324"
+            },
+            "name": "ubuntu apache2配置详解(含虚拟主机配置方法) - 渊蓝之蓝 - 博客园",
+            "sync_transaction_version": "102",
+            "type": "url",
+            "url": "https://www.cnblogs.com/ylan2009/archive/2012/02/25/2368028.html"
+         }, {
+            "date_added": "13179245499470934",
+            "id": "30",
+            "meta_info": {
+               "last_visited_desktop": "13179293437750559"
+            },
+            "name": "Running CGI Scripts on Apache2 · Tasdik Rahman",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://tasdikrahman.me/2015/09/30/Running-CGI-Scripts-on-Apache2-Ubuntu/"
+         }, {
+            "date_added": "13180428818279253",
+            "id": "31",
+            "meta_info": {
+               "last_visited_desktop": "13180428818279567"
+            },
+            "name": "2. 快速入门 — Selenium-Python中文文档 2 documentation",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://selenium-python-zh.readthedocs.io/en/latest/getting-started.html#selenium-remote-webdriver"
+         }, {
+            "date_added": "13180551246227213",
+            "id": "32",
+            "meta_info": {
+               "last_visited_desktop": "13180551246228309"
+            },
+            "name": "在ubuntu服务器上使用Chrome Headless",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://jiayi.space/post/zai-ubuntufu-wu-qi-shang-shi-yong-chrome-headless"
+         }, {
+            "date_added": "13181124148525450",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13187792011265009"
+            },
+            "name": "导师评价网 • 首页",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://mysupervisor.org/"
+         }, {
+            "date_added": "13181295040338221",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13192804396533581"
+            },
+            "name": "首页 -数学与系统科学学院二学位",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.buaamath2.com/"
+         }, {
+            "date_added": "13182517611430567",
+            "id": "35",
+            "meta_info": {
+               "last_visited_desktop": "13193975476617899"
+            },
+            "name": "Google 翻译",
+            "sync_transaction_version": "101",
+            "type": "url",
+            "url": "https://translate.google.cn/"
+         }, {
+            "date_added": "13183489714777416",
+            "id": "36",
+            "meta_info": {
+               "last_visited_desktop": "13189174449343087"
+            },
+            "name": "Search results | TubeNinja",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.tubeninja.net/zh-hans/search?q=id=58353435"
+         }, {
+            "date_added": "13183747783952546",
+            "id": "37",
+            "meta_info": {
+               "last_visited_desktop": "13192031369343483"
+            },
+            "name": " Apache 2.2 中文版参考手册",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.xuchao.org/docs/apache/"
+         }, {
+            "date_added": "13183998962545486",
+            "id": "38",
+            "meta_info": {
+               "last_visited_desktop": "13192099911819529"
+            },
+            "name": "cppreference.com",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5"
+         }, {
+            "date_added": "13184141436185360",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13192803332254944"
+            },
+            "name": "buaasoft1721 - 公邮",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://ourmail.cn/782207/v5/"
+         }, {
+            "date_added": "13184142265846558",
+            "id": "40",
+            "meta_info": {
+               "last_visited_desktop": "13191781560356275"
+            },
+            "name": "TubeNinja视频下载",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.tubeninja.net/zh-hans/search"
+         }, {
+            "date_added": "13185016497283398",
+            "id": "41",
+            "meta_info": {
+               "last_visited_desktop": "13194001572049702"
+            },
+            "name": "ArchWiki",
+            "sync_transaction_version": "125",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13185133269681962",
+            "id": "42",
+            "meta_info": {
+               "last_visited_desktop": "13192276521122221"
+            },
+            "name": "华电-登录",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://202.204.67.15/srun_portal_pc.php?ac_id=1&url=www.msftconnecttest.com"
+         }, {
+            "date_added": "13185159059022555",
+            "id": "43",
+            "meta_info": {
+               "last_visited_desktop": "13185159059023264"
+            },
+            "name": "解决Windows与Ubuntu双系统时间同步问题 - AderStep - CSDN博客",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.csdn.net/gatieme/article/details/51883981"
+         }, {
+            "date_added": "13185213343797789",
+            "id": "44",
+            "meta_info": {
+               "last_visited_desktop": "13185969658618520"
+            },
+            "name": "澳宋历史地图集 - 临高启明 - 灰机wiki",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://lgqm.huijiwiki.com/wiki/%E6%BE%B3%E5%AE%8B%E5%8E%86%E5%8F%B2%E5%9C%B0%E5%9B%BE%E9%9B%86"
+         }, {
+            "date_added": "13185900956504579",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13187174829596695"
+            },
+            "name": "查查在线翻译",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ichacha.net/"
+         }, {
+            "date_added": "13184236827220013",
+            "id": "46",
+            "meta_info": {
+               "last_visited_desktop": "13184236827220427"
+            },
+            "name": "深入理解计算机系统(第二版) 家庭作业",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.csdn.net/zhanyu1990/article/details/10896987"
+         }, {
+            "date_added": "13186480019002887",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13186480019003189"
+            },
+            "name": "鸟哥的 Linux 私房菜",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/41.html"
+         }, {
+            "date_added": "13186863022931650",
+            "id": "48",
+            "meta_info": {
+               "last_visited_desktop": "13186863022931870"
+            },
+            "name": "P1816 忠诚 题解",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.luogu.org/problemnew/solution/P1816"
+         }, {
+            "date_added": "13187452637683735",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13191092476690666"
+            },
+            "name": "Dynamic Programming - LeetCode",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://leetcode.com/tag/dynamic-programming/"
+         }, {
+            "date_added": "13187877741224090",
+            "id": "50",
+            "meta_info": {
+               "last_visited_desktop": "13189675126530014"
+            },
+            "name": "Desktopography - Beautiful creative nature themed desktop wallpaper by the worlds best artists and designers.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://desktopography.net/"
+         }, {
+            "date_added": "13187953860811609",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13193542399622180"
+            },
+            "name": "Xfce dock & global menu - Nice and elegant",
+            "sync_transaction_version": "49",
+            "type": "url",
+            "url": "https://www.dedoimedo.com/computers/xfce-dock-global-menu.html"
+         }, {
+            "date_added": "13188846876017004",
+            "id": "52",
+            "meta_info": {
+               "last_visited_desktop": "13188846876018058"
+            },
+            "name": "中国要求加拿大立即释放孟晚舟 加总理前顾问：加拿大司法独立 中国施压无用",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.voachinese.com/a/China-Summons-Canadian-Ambassador-Over-Huawei-CFO-Arrest-20181208/4692282.html"
+         }, {
+            "date_added": "13190193542794115",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13191338072598758"
+            },
+            "name": "中国联通WLAN上网服务",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://202.106.46.37/index.do"
+         }, {
+            "date_added": "13191854459741105",
+            "id": "54",
+            "meta_info": {
+               "last_visited_desktop": "13192125343553108"
+            },
+            "name": "手机电脑互传文件的 10 个免费工具，比微信、QQ 更好用 | 领客专栏 · 電腦玩物 | 爱范儿",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.ifanr.com/app/668324"
+         }, {
+            "date_added": "13192032031847674",
+            "id": "55",
+            "meta_info": {
+               "last_visited_desktop": "13192032031848395"
+            },
+            "name": "Apache 2.2 中文版参考手册",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://shouce.jb51.net/ApacheMenu/sitemap.html"
+         }, {
+            "date_added": "13192120721635258",
+            "id": "56",
+            "meta_info": {
+               "last_visited_desktop": "13193744090604117"
+            },
+            "name": "Vim-China",
+            "sync_transaction_version": "88",
+            "type": "url",
+            "url": "https://vim-china.github.io/"
+         }, {
+            "date_added": "13192474166579345",
+            "id": "57",
+            "meta_info": {
+               "last_visited_desktop": "13193654692369911"
+            },
+            "name": "Archlinux下使用KVM代替Vmware | 老黎即集",
+            "sync_transaction_version": "65",
+            "type": "url",
+            "url": "https://clixiang.github.io/2018/07/19/linux/using-kvm/"
+         }, {
+            "date_added": "13192554943696522",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13192554943696891"
+            },
+            "name": "Cheatsheet | Font Awesome",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://fontawesome.com/cheatsheet?from=io"
+         }, {
+            "date_added": "13192619023755961",
+            "id": "59",
+            "meta_info": {
+               "last_visited_desktop": "13193660259536923"
+            },
+            "name": "virt-install找不到default网络 - xuxin8911的专栏 - CSDN博客",
+            "sync_transaction_version": "66",
+            "type": "url",
+            "url": "https://blog.csdn.net/xuxin8911/article/details/80038153"
+         }, {
+            "date_added": "13192619524836362",
+            "id": "60",
+            "meta_info": {
+               "last_visited_desktop": "13192820735053155"
+            },
+            "name": "Linux下LCD屏幕字体显示优化--dpi设置及sub-pixel次像素微调 - Selective Memory",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "http://xxb.is-programmer.com/posts/4260.html"
+         }, {
+            "date_added": "13192705809161706",
+            "id": "61",
+            "meta_info": {
+               "last_visited_desktop": "13192705809161989"
+            },
+            "name": "Kaggle: Your Home for Data Science",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.kaggle.com/"
+         }, {
+            "date_added": "13193248262990063",
+            "id": "63",
+            "meta_info": {
+               "last_visited_desktop": "13193746497038386"
+            },
+            "name": "How to install YCM in archlinux correctly? · Issue #538 · Valloric/YouCompleteMe",
+            "sync_transaction_version": "93",
+            "type": "url",
+            "url": "https://github.com/Valloric/YouCompleteMe/issues/538"
+         }, {
+            "date_added": "13193421188104233",
+            "id": "65",
+            "meta_info": {
+               "last_visited_desktop": "13193421188104477"
+            },
+            "name": "Teamviewer-beta 13, \"Not ready, please check connection\" - Newbie Corner - Manjaro Linux Forum",
+            "sync_transaction_version": "32",
+            "type": "url",
+            "url": "https://forum.manjaro.org/t/teamviewer-beta-13-not-ready-please-check-connection/37638"
+         }, {
+            "date_added": "13193509879186756",
+            "id": "67",
+            "meta_info": {
+               "last_visited_desktop": "13193509879187625"
+            },
+            "name": "颜值即正义，超好用的 Linux 桌面个性化工具推荐 - 编辑部的故事的个人空间 - 开源中国",
+            "sync_transaction_version": "47",
+            "type": "url",
+            "url": "https://my.oschina.net/editorial-story/blog/1527138"
+         }, {
+            "date_added": "13193630999984679",
+            "id": "69",
+            "meta_info": {
+               "last_visited_desktop": "13193714132053821"
+            },
+            "name": "Kotlin/Native - Kotlin 语言中文站",
+            "sync_transaction_version": "77",
+            "type": "url",
+            "url": "https://www.kotlincn.net/docs/reference/native-overview.html"
+         }, {
+            "date_added": "13193721673205286",
+            "id": "71",
+            "meta_info": {
+               "last_visited_desktop": "13193721673205659"
+            },
+            "name": "AIO Search - Search Torrents Sites",
+            "sync_transaction_version": "80",
+            "type": "url",
+            "url": "https://www.aiosearch.com/"
+         }, {
+            "date_added": "13193735823487851",
+            "id": "72",
+            "meta_info": {
+               "last_visited_desktop": "13193735823489148"
+            },
+            "name": "TechBench by WZT (v4.1.1)",
+            "sync_transaction_version": "85",
+            "type": "url",
+            "url": "https://tb.rg-adguard.net/public.php?lang=zh-CN"
+         }, {
+            "date_added": "13193985976634394",
+            "id": "74",
+            "meta_info": {
+               "last_visited_desktop": "13194010885356053"
+            },
+            "name": "在 Linux 下进行开发工作（二） | Vincent Cheung's 博客",
+            "sync_transaction_version": "130",
+            "type": "url",
+            "url": "http://coolerfall.com/2018/10/18/work-on-linux-part-two/"
+         } ],
+         "date_added": "13192820710403267",
+         "date_modified": "13193985976634394",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13192820710403269",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "sync_transaction_version": "192",
+      "synced": {
+         "children": [  ],
+         "date_added": "13192820710403270",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

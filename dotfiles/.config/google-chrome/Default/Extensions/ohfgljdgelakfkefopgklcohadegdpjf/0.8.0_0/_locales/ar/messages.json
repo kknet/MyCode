@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf- أدوات PDF سهلة الاستخدام"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "ضغط"
+   },
+   "converter": {
+      "message": "التحويل"
+   },
+   "delete": {
+      "message": "حذف الصفحات"
+   },
+   "downloadCta": {
+      "message": "تنزيل الآن"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "excel": {
+      "message": "Excel إلى PDF"
+   },
+   "extract": {
+      "message": "PDF إلى JPG"
+   },
+   "fileIsReady": {
+      "message": "ملفك جاهز"
+   },
+   "jpg": {
+      "message": "JPG إلى PDF"
+   },
+   "merge": {
+      "message": "دمج"
+   },
+   "noInternetConnection": {
+      "message": "لا يوجد اتصال بالإنترنت"
+   },
+   "pdf_to_excel": {
+      "message": "PDF إلى Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF إلى PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF إلى Word"
+   },
+   "ppt": {
+      "message": "PPT إلى PDF"
+   },
+   "processingFailedMessage": {
+      "message": "عذرًا، حدث مشكلة في معالجة ملفك"
+   },
+   "processingFailedTitle": {
+      "message": "فشل المعالجة"
+   },
+   "protect": {
+      "message": "حماية"
+   },
+   "rotate": {
+      "message": "تدوير"
+   },
+   "sign": {
+      "message": "توقيع"
+   },
+   "split": {
+      "message": "انقسام"
+   },
+   "tools": {
+      "message": "أدوات"
+   },
+   "unlock": {
+      "message": "فتح"
+   },
+   "uploadFailed": {
+      "message": "نأسف لتعذر تحميل ملفك"
+   },
+   "word": {
+      "message": "Word إلى PDF"
+   }
+}

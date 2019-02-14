@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Easy-to-use PDF tools"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Compress"
+   },
+   "converter": {
+      "message": "Convert"
+   },
+   "delete": {
+      "message": "Delete Pages"
+   },
+   "downloadCta": {
+      "message": "Download it now"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "excel": {
+      "message": "Excel to PDF"
+   },
+   "extract": {
+      "message": "PDF to JPG"
+   },
+   "fileIsReady": {
+      "message": "Your file is ready"
+   },
+   "jpg": {
+      "message": "JPG to PDF"
+   },
+   "merge": {
+      "message": "Merge"
+   },
+   "noInternetConnection": {
+      "message": "No internet connection"
+   },
+   "pdf_to_excel": {
+      "message": "PDF to Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF to PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF to Word"
+   },
+   "ppt": {
+      "message": "PPT to PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Sorry, there was a problem processing your file"
+   },
+   "processingFailedTitle": {
+      "message": "Processing failed"
+   },
+   "protect": {
+      "message": "Protect"
+   },
+   "rotate": {
+      "message": "Rotate"
+   },
+   "sign": {
+      "message": "Sign"
+   },
+   "split": {
+      "message": "Split"
+   },
+   "tools": {
+      "message": "Tools"
+   },
+   "unlock": {
+      "message": "Unlock"
+   },
+   "uploadFailed": {
+      "message": "Sorry your upload failed"
+   },
+   "word": {
+      "message": "Word to PDF"
+   }
+}

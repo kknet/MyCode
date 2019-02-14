@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Kullanımı kolay PDF araçları"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Sıkıştır"
+   },
+   "converter": {
+      "message": "Çevirme"
+   },
+   "delete": {
+      "message": "Sayfaları Sil"
+   },
+   "downloadCta": {
+      "message": "Onu şimdi indir"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "excel": {
+      "message": "Excel PDF Çevirme"
+   },
+   "extract": {
+      "message": "PDF JPG Çevirme"
+   },
+   "fileIsReady": {
+      "message": "Dosyan hazır"
+   },
+   "jpg": {
+      "message": "JPG PDF Çevirme"
+   },
+   "merge": {
+      "message": "Birleştir"
+   },
+   "noInternetConnection": {
+      "message": "İnternet bağlantısı yok"
+   },
+   "pdf_to_excel": {
+      "message": "PDF Excel Çevirme"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF PPT Çevirme"
+   },
+   "pdf_to_word": {
+      "message": "PDF Word Çevirme"
+   },
+   "ppt": {
+      "message": "PPT PDF Çevirme"
+   },
+   "processingFailedMessage": {
+      "message": "Üzgünüz, dosyanı işlerken bir sorun oluştu"
+   },
+   "processingFailedTitle": {
+      "message": "Dosya işleme başarısız oldu"
+   },
+   "protect": {
+      "message": "Koru"
+   },
+   "rotate": {
+      "message": "Döndür"
+   },
+   "sign": {
+      "message": "İmza"
+   },
+   "split": {
+      "message": "Böl"
+   },
+   "tools": {
+      "message": "Araçlar"
+   },
+   "unlock": {
+      "message": "Kilidini Aç"
+   },
+   "uploadFailed": {
+      "message": "Maalesef yüklemeniz başarısız oldu"
+   },
+   "word": {
+      "message": "Word PDF Çevirme"
+   }
+}

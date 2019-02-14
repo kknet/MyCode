@@ -1,0 +1,10 @@
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/wintmp/riched20.zip
+Name1[$e]=riched20.zip

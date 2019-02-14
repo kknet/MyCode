@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf — простые инструменты для PDF"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Сжать"
+   },
+   "converter": {
+      "message": "Конвертор"
+   },
+   "delete": {
+      "message": "Удалить страницы"
+   },
+   "downloadCta": {
+      "message": "Загрузить сейчас"
+   },
+   "edit": {
+      "message": "Редактировать"
+   },
+   "excel": {
+      "message": "Excel в PDF"
+   },
+   "extract": {
+      "message": "PDF в JPG"
+   },
+   "fileIsReady": {
+      "message": "Ваш файл готов"
+   },
+   "jpg": {
+      "message": "JPG в PDF"
+   },
+   "merge": {
+      "message": "Объединить"
+   },
+   "noInternetConnection": {
+      "message": "Нет подключения к Интернету"
+   },
+   "pdf_to_excel": {
+      "message": "PDF в Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF в PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF в Word"
+   },
+   "ppt": {
+      "message": "PPT в PDF"
+   },
+   "processingFailedMessage": {
+      "message": "К сожалению, при обработке вашего файла возникла проблема"
+   },
+   "processingFailedTitle": {
+      "message": "Обработка не удалась"
+   },
+   "protect": {
+      "message": "Защитить"
+   },
+   "rotate": {
+      "message": "Повернуть"
+   },
+   "sign": {
+      "message": "Подписать"
+   },
+   "split": {
+      "message": "Разделить"
+   },
+   "tools": {
+      "message": "инструменты"
+   },
+   "unlock": {
+      "message": "Открыть"
+   },
+   "uploadFailed": {
+      "message": "К сожалению, загрузка не удалась"
+   },
+   "word": {
+      "message": "Word в PDF"
+   }
+}

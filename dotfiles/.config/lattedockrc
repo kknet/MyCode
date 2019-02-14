@@ -1,0 +1,21 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 services_keys.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[ScreenConnectors]
+10=eDP1
+
+[UniversalSettings]
+canDisableBorders=false
+currentLayout=Unity
+downloadWindowSize=800,550
+lastNonAssignedLayout=Unity
+launchers=
+layoutsColumnWidths=63,80,63,0
+layoutsWindowSize=700,567
+memoryUsage=0
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+unifiedGlobalShortcuts=true
+version=2

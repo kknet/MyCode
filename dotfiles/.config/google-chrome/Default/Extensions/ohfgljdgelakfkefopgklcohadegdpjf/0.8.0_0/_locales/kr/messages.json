@@ -1,0 +1,83 @@
+{
+  "appName": {
+    "message": "Smallpdf"
+  },
+  "appDesc": {
+    "message": "Smallpdf - PDF 툴 간편 사용법"
+  },
+  "downloadCta": {
+    "message": "지금 다운로드하기"
+  },
+  "fileIsReady": {
+    "message": "파일이 준비되었습니다"
+  },
+  "processingFailedMessage": {
+    "message": "죄송하지만 파일 처리 중 문제가 발생했습니다"
+  },
+  "processingFailedTitle": {
+    "message": "처리 중 실패"
+  },
+  "uploadFailed": {
+    "message": "죄송합니다. 업로드할 수 없습니다"
+  },
+  "noInternetConnection": {
+    "message": "인터넷 연결 없음"
+  },
+  "tools": {
+    "message": "도구들"
+  },
+  "compress": {
+    "message": "압축"
+  },
+  "converter": {
+    "message": "변환하기"
+  },
+  "merge": {
+    "message": "병합"
+  },
+  "pdf_to_ppt": {
+    "message": "PDF PPT변환"
+  },
+  "ppt": {
+    "message": "PPT PDF 변환"
+  },
+  "jpg": {
+    "message": "JPG PDF 변환"
+  },
+  "extract": {
+    "message": "PDF JPG 변환"
+  },
+  "excel": {
+    "message": "엑셀 PDF 변환"
+  },
+  "pdf_to_excel": {
+    "message": "PDF 엑셀 변환"
+  },
+  "delete": {
+    "message": "페이지 삭제"
+  },
+  "edit": {
+    "message": "편집"
+  },
+  "word": {
+    "message": "워드 PDF 변환"
+  },
+  "split": {
+    "message": "분할"
+  },
+  "rotate": {
+    "message": "회전"
+  },
+  "sign": {
+    "message": "서명"
+  },
+  "unlock": {
+    "message": "잠금 해제"
+  },
+  "protect": {
+    "message": "보호"
+  },
+  "pdf_to_word": {
+    "message": "PDF 워드 변환"
+  }
+}

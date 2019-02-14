@@ -1,0 +1,27 @@
+[KDiskFree]
+Device=100
+Free=80
+Full%=60
+HeaderSectionIndices=0,1,2,3,4,5,6,7
+Icon=60
+MountPoint=120
+Size=80
+SortColumn=0
+SortOrder=0
+Type=80
+UsageBar=200
+
+[KPropertiesDialog]
+Height 1080=526
+Width 1920=444
+
+[MainWindow]
+Height 1080=720
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABQYAAALQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1286
+
+[Open-with settings]
+CompletionMode=1
+History=lan,yak

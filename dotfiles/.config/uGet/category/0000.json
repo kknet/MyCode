@@ -1,0 +1,274 @@
+{
+	"data": {
+		"relation": {
+			"group": 0,
+			"task": {
+				"priority": 1
+			}
+		},
+		"category": {
+			"hosts": [
+				".edu",
+				".idv"
+			],
+			"schemes": [
+				"ftps",
+				"magnet"
+			],
+			"file-exts": [
+				"torrent",
+				"metalink"
+			],
+			"active-limit": 3,
+			"finished-limit": 300,
+			"recycled-limit": 300
+		},
+		"common": {
+			"name": "新建 0",
+			"folder": "\/home\/loheagn",
+			"connect-timeout": 15,
+			"transmit-timeout": 30,
+			"retry-delay": 6,
+			"retry-limit": 99,
+			"retry-count": 0,
+			"max-connections": 1,
+			"max-upload-speed": 0,
+			"max-download-speed": 0,
+			"timestamp": 1
+		}
+	},
+	"children": [
+		{
+			"data": {
+				"relation": {
+					"group": 33,
+					"task": {
+						"priority": 1
+					}
+				},
+				"log": {
+					"added-time": 1549181486,
+					"completed-time": 0,
+					"messages": [
+						{
+							"string": "不支持的方案(协议)。",
+							"type": 3,
+							"time": 1549181486
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "ed2k:\/\/|file|cn_windows_10_business_edition_version_1809_updated_sept_2018_x64_dvd_84ac403f.iso|5028311040|7484013AAA64C8EF414B3F78DDACF99F|\/",
+					"uri": "ed2k:\/\/|file|cn_windows_10_business_edition_version_1809_updated_sept_2018_x64_dvd_84ac403f.iso|5028311040|7484013AAA64C8EF414B3F78DDACF99F|\/",
+					"folder": "\/home\/loheagn\/ISO",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 3420557312,
+					"total": 3420557312,
+					"elapsed": 184,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1549262349,
+					"completed-time": 1549263636,
+					"messages": [
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Win7_Ult_SP1_Chinese(Simplified)_x64.iso",
+					"uri": "https:\/\/software-download.microsoft.com\/db\/Win7_Ult_SP1_Chinese(Simplified)_x64.iso?t=376a6027-ac70-4184-b827-1ec5d0d0456c&e=1549317616&h=6dbdf9e1170b7a9d8c96169e9e2897d7",
+					"file": "Win7_Ult_SP1_Chinese(Simplified)_x64.iso",
+					"folder": "\/home\/loheagn\/ISO",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/loheagn\/ISO\/Win7_Ult_SP1_Chinese(Simplified)_x64.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 4714162176,
+					"total": 4714162176,
+					"elapsed": 884,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1549185492,
+					"completed-time": 1549186376,
+					"messages": [
+						{
+							"string": "可续传",
+							"type": 2,
+							"time": 1549185493
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "Win10_1803_Chinese(Simplified)_x64.iso",
+					"uri": "https:\/\/software-download.microsoft.com\/pr\/Win10_1803_Chinese(Simplified)_x64.iso?t=f3fb0401-603e-43d2-99a8-18628fd7066d&e=1549271816&h=3b602faa153cfdd5e95838c817219c44",
+					"file": "Win10_1803_Chinese(Simplified)_x64.iso",
+					"folder": "\/home\/loheagn\/ISO",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/loheagn\/ISO\/Win10_1803_Chinese(Simplified)_x64.iso",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		},
+		{
+			"data": {
+				"relation": {
+					"group": 72,
+					"task": {
+						"plugin-name": "curl",
+						"priority": 1
+					}
+				},
+				"progress": {
+					"complete": 2069328,
+					"total": 2069328,
+					"elapsed": 42,
+					"uploaded": 0,
+					"percent": 100
+				},
+				"log": {
+					"added-time": 1548858787,
+					"completed-time": 1548858829,
+					"messages": [
+						{
+							"string": "可续传",
+							"type": 2,
+							"time": 1548858794
+						}
+					]
+				},
+				"http": {
+					"redirection-limit": 30
+				},
+				"proxy": {
+					"port": 80,
+					"type": 0
+				},
+				"common": {
+					"name": "libtorrent-rasterbar-1_1.1.12-1-x86_64.pkg.tar.xz",
+					"uri": "https:\/\/mirrors.cat.net\/archlinux\/extra\/os\/x86_64\/libtorrent-rasterbar-1%3A1.1.12-1-x86_64.pkg.tar.xz",
+					"file": "libtorrent-rasterbar-1_1.1.12-1-x86_64.pkg.tar.xz",
+					"folder": "\/home\/loheagn\/Downloads",
+					"connect-timeout": 15,
+					"transmit-timeout": 30,
+					"retry-delay": 6,
+					"retry-limit": 99,
+					"retry-count": 0,
+					"max-connections": 16,
+					"max-upload-speed": 0,
+					"max-download-speed": 0,
+					"timestamp": 1
+				},
+				"files": {
+					"collection": [
+						{
+							"path": "\/home\/loheagn\/Downloads\/libtorrent-rasterbar-1_1.1.12-1-x86_64.pkg.tar.xz",
+							"type": 0,
+							"state": 8,
+							"total": 0,
+							"complete": 0
+						}
+					]
+				}
+			},
+			"children": [
+			]
+		}
+	]
+}
+

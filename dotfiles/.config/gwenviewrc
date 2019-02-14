@@ -1,0 +1,17 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[MainWindow]
+Height 1080=480
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB1oAAAPMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=825
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Desktop/\xe6\xb7\xb1\xe5\xba\xa6\xe6\x88\xaa\xe5\x9b\xbe_Desktop_20190206213959.png
+Name1[$e]=\xe6\xb7\xb1\xe5\xba\xa6\xe6\x88\xaa\xe5\x9b\xbe_Desktop_20190206213959.png
+
+[SideBar]
+SideBarSplitterSizes=242,1637

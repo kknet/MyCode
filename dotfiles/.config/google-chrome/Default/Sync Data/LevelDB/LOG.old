@@ -1,0 +1,9 @@
+2019/02/07-15:15:22.369 54a Reusing MANIFEST /home/loheagn/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/02/07-15:15:22.369 54a Recovering log #42
+2019/02/07-15:15:22.369 54a Reusing old log /home/loheagn/.config/google-chrome/Default/Sync Data/LevelDB/000042.log 
+2019/02/07-18:21:52.157 d2c Level-0 table #47: started
+2019/02/07-18:21:52.162 d2c Level-0 table #47: 110653 bytes OK
+2019/02/07-18:21:52.164 d2c Delete type=0 #42
+2019/02/07-20:02:24.023 d2c Level-0 table #49: started
+2019/02/07-20:02:24.031 d2c Level-0 table #49: 98620 bytes OK
+2019/02/07-20:02:24.037 d2c Delete type=0 #46

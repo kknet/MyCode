@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "context_menu.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/flvcd.png",
+      "default_title": "点击图标解析当前页视频\r\n选项页中可以修改打开方式"
+   },
+   "description": "帮助用户快速使用flvcd.com网站来解析下载视频",
+   "icons": {
+      "16": "images/flvcd.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkmyHmrCB0F2chgC3BTcwl7Gho+fJGa07Jfwiz8apPI4bZh2yNiHaUMbQFX4LNXEGPnTshxXnNvtRPnbvjElHtqS2+Jzg1nQ7n7i+YLU7LgklV8xeHsboaejCPF2tCGR2W/sxQwadNAr2LPdLyYT5/ogP2YBwl5lXkBu4khiDKjc7c/mz+XNGYoAKASKw+20IPpEFjOsVC9RRV9Ru7BpOllyEkkiceJp4xJWhLrwJa0Jg9T/2ll/vkyxDDq5/OMQqC9zkFIqKY9bD7jfXzx2LJb5IBlHvq0rAcVZpIBaio18UGxS5jL+qYxlA1yQjE+7quV7JOqRcISJcBMQQ3CxYIwIDAQAB",
+   "manifest_version": 2,
+   "name": "FLVCD Helper",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

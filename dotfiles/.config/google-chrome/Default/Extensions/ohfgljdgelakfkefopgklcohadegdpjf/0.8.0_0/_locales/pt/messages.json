@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Ferramentas PDF fáceis de usar"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Comprimir"
+   },
+   "converter": {
+      "message": "Conversor"
+   },
+   "delete": {
+      "message": "Excluir páginas"
+   },
+   "downloadCta": {
+      "message": "Baixar agora"
+   },
+   "edit": {
+      "message": "Editar"
+   },
+   "excel": {
+      "message": "Excel para PDF"
+   },
+   "extract": {
+      "message": "PDF para JPG"
+   },
+   "fileIsReady": {
+      "message": "Seu arquivo está pronto"
+   },
+   "jpg": {
+      "message": "JPG para PDF"
+   },
+   "merge": {
+      "message": "Juntar"
+   },
+   "noInternetConnection": {
+      "message": "Sem conexão com a Internet"
+   },
+   "pdf_to_excel": {
+      "message": "PDF para Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF para PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF para Word"
+   },
+   "ppt": {
+      "message": "PPT para PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Desculpe-nos, aconteceu um problema ao processar seu arquivo"
+   },
+   "processingFailedTitle": {
+      "message": "Falha no processamento"
+   },
+   "protect": {
+      "message": "Proteger"
+   },
+   "rotate": {
+      "message": "Rodar"
+   },
+   "sign": {
+      "message": "Assinar"
+   },
+   "split": {
+      "message": "Dividir"
+   },
+   "tools": {
+      "message": "Ferramentas"
+   },
+   "unlock": {
+      "message": "Desproteger"
+   },
+   "uploadFailed": {
+      "message": "Desculpe, seu envio falhou"
+   },
+   "word": {
+      "message": "Word para PDF"
+   }
+}

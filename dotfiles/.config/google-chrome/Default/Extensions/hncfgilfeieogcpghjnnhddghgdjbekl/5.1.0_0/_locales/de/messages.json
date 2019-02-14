@@ -1,0 +1,372 @@
+{
+   "add_local_null": {
+      "message": "Keine Quelle verfügbar, bitte klicke den Button links unten zum Hinzufügen."
+   },
+   "add_local_title": {
+      "message": "Erlaube Enjoy Music Player den Zugriff auf folgende Quelle:"
+   },
+   "add_music_location": {
+      "message": "Lokale Musik hinzufügen"
+   },
+   "add_playlist": {
+      "description": "Wiedergabeliste erstellen",
+      "message": "Neue Wiedergabeliste"
+   },
+   "add_to_playlist": {
+      "description": "3 Titel wurden zu \u003Cplaylist name> hinzugefügt",
+      "message": " $NUM$ Titel wurden zu $PLAYLIST$ hinzugefügt",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "playlist": {
+            "content": "$2"
+         }
+      }
+   },
+   "add_track": {
+      "message": "Musik hinzufügen"
+   },
+   "added_playlist": {
+      "message": "Wiedergabeliste $NAME$ hinzugefügt",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "album_list": {
+      "message": "Alben"
+   },
+   "analysis_music": {
+      "message": "Musik analysieren"
+   },
+   "app_cmd_next": {
+      "message": "Nächster Titel"
+   },
+   "app_cmd_playpause": {
+      "message": "Abspielen/Pause"
+   },
+   "app_cmd_prev": {
+      "message": "Vorheriger Titel"
+   },
+   "application_description": {
+      "message": "Mit Enjoy Music Player kannst du lokale und aus Online-Quellen stammende Musik abspielen."
+   },
+   "application_title": {
+      "message": "Enjoy Music Player"
+   },
+   "apply": {
+      "message": "Anwenden"
+   },
+   "artist_list": {
+      "message": "Interpreten"
+   },
+   "bruce": {
+      "message": "Bruce"
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "change_music_location": {
+      "message": "Quelle hinzufügen/bearbeiten"
+   },
+   "classic": {
+      "message": "Classic"
+   },
+   "close_app": {
+      "message": "Anwendung schließen"
+   },
+   "connect_drive": {
+      "message": "Verbindung zu Google Drive herstellen"
+   },
+   "country": {
+      "message": "Country"
+   },
+   "custom": {
+      "message": "Angepasst"
+   },
+   "dance": {
+      "message": "Dance"
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "default_tip": {
+      "message": "Genieße die Musik. Genieße das Leben."
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "desktop_notify": {
+      "message": "Benachrichtigungen"
+   },
+   "disable_eq": {
+      "message": "Deaktivieren"
+   },
+   "electronic": {
+      "message": "Electronic"
+   },
+   "enable_eq": {
+      "message": "Aktivieren"
+   },
+   "eq": {
+      "message": "Equalizer"
+   },
+   "eq_effect": {
+      "message": "Equalizer"
+   },
+   "favorite": {
+      "message": "Ähnlich wie aktueller Titel"
+   },
+   "favorite_list": {
+      "message": "Meine Favoriten"
+   },
+   "file": {
+      "message": "Datei"
+   },
+   "file_error": {
+      "description": "Kann \u003Csong title> von \u003Csong location> nicht wiedergeben",
+      "message": "Kann $TITLE$ von $LOCATION$ nicht wiedergeben",
+      "placeholders": {
+         "location": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help_improve": {
+      "message": "Privacy"
+   },
+   "hotkey": {
+      "message": "Verknüpfungen"
+   },
+   "jazz": {
+      "message": "Jazz"
+   },
+   "lang": {
+      "message": "DE"
+   },
+   "load_buffer": {
+      "message": "Zwischenspeichern..."
+   },
+   "load_connect": {
+      "message": "Verbinden..."
+   },
+   "load_error": {
+      "message": "Fehler beim Laden"
+   },
+   "loadlist_error": {
+      "message": "Fehler beim Laden der Liste"
+   },
+   "local_adding": {
+      "message": "Das Durchsuchen und Analysieren der lokalen Quellen wurde gestartet"
+   },
+   "local_music": {
+      "message": "Lokal"
+   },
+   "manage_drive": {
+      "message": " Drive verwalten"
+   },
+   "maximize": {
+      "message": "Maximieren"
+   },
+   "media_lib_updated": {
+      "message": "Medienbiblithek wurde geupdatet"
+   },
+   "metal": {
+      "message": "Metal"
+   },
+   "mini_mode": {
+      "message": "Mini-Modus"
+   },
+   "minimize": {
+      "message": "Minimieren"
+   },
+   "mix_error": {
+      "message": "Fehler beim Mixen der Musik"
+   },
+   "mix_music": {
+      "message": "Musik wird gemixt..."
+   },
+   "mode_list": {
+      "message": "Abfolge"
+   },
+   "mode_random": {
+      "message": "Shuffle"
+   },
+   "mode_single": {
+      "message": "Titel wiederholen"
+   },
+   "music_genres": {
+      "message": "Genre"
+   },
+   "music_list": {
+      "message": "Songs"
+   },
+   "music_radio": {
+      "message": "Radio"
+   },
+   "music_trend": {
+      "message": "Beliebte Musik"
+   },
+   "nothing_found": {
+      "message": " Musikdatei nicht gefunden"
+   },
+   "offline_list": {
+      "message": "Offline-Musik"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "old": {
+      "message": "Old"
+   },
+   "online_loading": {
+      "message": "Lade..."
+   },
+   "online_music": {
+      "message": "Online"
+   },
+   "opera": {
+      "message": "Opera"
+   },
+   "playlist_add_selected": {
+      "description": "3 Titel ausgewählt",
+      "message": "Titel ausgewählt"
+   },
+   "playlist_add_to": {
+      "description": "Hinzufügen zu \u003Cplaylist name>",
+      "message": "Hinzufügen zu"
+   },
+   "playlist_empty": {
+      "message": "Die Wiedergabeliste ist leer, bitte wähle Musik von der Titelliste"
+   },
+   "playlist_name": {
+      "message": "Wiedergabelisten-Name"
+   },
+   "pop": {
+      "message": "Pop"
+   },
+   "refresh_list": {
+      "message": "Liste aktualisieren"
+   },
+   "remote_control": {
+      "message": "Fernbedienung"
+   },
+   "remote_enable": {
+      "message": "Aktvieren"
+   },
+   "remote_failure": {
+      "message": "Fehler bei der Verbindung."
+   },
+   "remote_interface": {
+      "message": "Schnittstelle"
+   },
+   "remote_port": {
+      "message": "Port"
+   },
+   "remote_scan": {
+      "message": "Scanne den QR-Code und öffne den Link im Browser."
+   },
+   "remote_stop": {
+      "message": "Stop"
+   },
+   "remote_success": {
+      "message": "Fernbedienung erfolgreich hinzugefügt."
+   },
+   "remove_from_playlist": {
+      "description": "\u003Csong title> wurde von \u003Cplaylist name> entfernt",
+      "message": " $TITLE$ von $PLAYLIST$ entfernt",
+      "placeholders": {
+         "playlist": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "removed_playlist": {
+      "message": "Wiedergabeliste $NAME$ entfernt",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "reset": {
+      "message": "Zurücksetzen"
+   },
+   "revoke_auth": {
+      "message": "Authentifizierung widerrufen"
+   },
+   "rock": {
+      "message": "Rock"
+   },
+   "scan_complete": {
+      "message": "Scan komplett"
+   },
+   "search": {
+      "message": "Suchen"
+   },
+   "search_error": {
+      "message": "Fehler bei der Suche"
+   },
+   "search_local": {
+      "message": "Die Titelliste durchsuchen"
+   },
+   "search_result_empty": {
+      "message": "Uups, hier ist nichts zu finden ╭(╯3╰)╮."
+   },
+   "search_track": {
+      "message": "Musik suchen"
+   },
+   "setting": {
+      "message": "Einstellungen"
+   },
+   "setting_analysis": {
+      "message": "Sende anonyme Nutzungsdaten zur Verbesserung an uns!"
+   },
+   "setting_hotkey": {
+      "message": "Benutze standardmäßige Mediakeys (MediaNextTrack, MediaPlayPause, MediaPrevTrack). Füge manuell Shortcuts unter folgender URL hinzu:"
+   },
+   "setting_notify": {
+      "message": "Wenn der Player minimiert ist, zeige eine Benachrichtigung, wenn der nächste Titel abgespielt wird."
+   },
+   "share": {
+      "message": "Aktuellen Titel auf Twitter teilen"
+   },
+   "size": {
+      "message": "Größe"
+   },
+   "skip_next": {
+      "message": "Nächstes wiedergeben"
+   },
+   "song_album": {
+      "message": "Album"
+   },
+   "song_artist": {
+      "message": "Interpret"
+   },
+   "song_title": {
+      "message": "Titel"
+   },
+   "song_track": {
+      "message": "Track"
+   },
+   "songs_empty": {
+      "message": "Die lokale Datenbank ist leer, klicke '+Musik hinzufügen' um eine Quelle hinzu zu fügen."
+   },
+   "suggest": {
+      "message": "Vorgeschlagen"
+   },
+   "voice": {
+      "message": "Voice"
+   }
+}

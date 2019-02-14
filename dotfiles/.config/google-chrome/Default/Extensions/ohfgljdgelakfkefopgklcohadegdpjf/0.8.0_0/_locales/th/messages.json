@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - เครื่องมือ PDF ที่ใช้งานง่าย"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "ย่อไฟล์"
+   },
+   "converter": {
+      "message": "แปลง"
+   },
+   "delete": {
+      "message": "ลบเพจ"
+   },
+   "downloadCta": {
+      "message": "ดาวน์โหลดเลย"
+   },
+   "edit": {
+      "message": "แก้ไข"
+   },
+   "excel": {
+      "message": "Excel เป็น PDF"
+   },
+   "extract": {
+      "message": "PDF เป็น JPG"
+   },
+   "fileIsReady": {
+      "message": "ไฟล์ของคุณพร้อมแล้ว"
+   },
+   "jpg": {
+      "message": "JPG เป็น PDF"
+   },
+   "merge": {
+      "message": "รวม"
+   },
+   "noInternetConnection": {
+      "message": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต"
+   },
+   "pdf_to_excel": {
+      "message": "PDF เป็น Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF เป็น PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF เป็น Word"
+   },
+   "ppt": {
+      "message": "PPT เป็น PDF"
+   },
+   "processingFailedMessage": {
+      "message": "ขออภัย เกิดปัญหาในการประมวลผลไฟล์ของคุณ"
+   },
+   "processingFailedTitle": {
+      "message": "การประมวลผลล้มเหลว"
+   },
+   "protect": {
+      "message": "ปกป้อง"
+   },
+   "rotate": {
+      "message": "หมุน"
+   },
+   "sign": {
+      "message": "เซ็นชื่อ"
+   },
+   "split": {
+      "message": "แยก"
+   },
+   "tools": {
+      "message": "เครื่องมือ"
+   },
+   "unlock": {
+      "message": "ปลดล็อก"
+   },
+   "uploadFailed": {
+      "message": "ขออภัย อัปโหลดไม่สำเร็จ"
+   },
+   "word": {
+      "message": "Word เป็น PDF"
+   }
+}

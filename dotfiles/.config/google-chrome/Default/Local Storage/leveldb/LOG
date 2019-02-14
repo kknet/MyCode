@@ -1,0 +1,24 @@
+2019/02/11-20:16:23.755 553 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/02/11-20:16:23.756 553 Recovering log #276
+2019/02/11-20:16:23.757 553 Reusing old log leveldb/000276.log 
+2019/02/11-20:18:39.663 55f Level-0 table #280: started
+2019/02/11-20:18:39.667 55f Level-0 table #280: 60834 bytes OK
+2019/02/11-20:18:39.669 55f Delete type=0 #276
+2019/02/11-20:18:39.669 55f Compacting 4@0 + 1@1 files
+2019/02/11-20:18:39.699 55f Generated table #281@0: 1033 keys, 2199519 bytes
+2019/02/11-20:18:39.699 55f Compacted 4@0 + 1@1 files => 2199519 bytes
+2019/02/11-20:18:39.701 55f compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/02/11-20:18:39.701 55f Delete type=2 #277
+2019/02/11-20:18:39.701 55f Delete type=2 #273
+2019/02/11-20:18:39.702 55f Delete type=2 #280
+2019/02/11-20:18:39.702 55f Delete type=2 #275
+2019/02/11-20:18:39.702 55f Delete type=2 #270
+2019/02/11-20:21:29.411 8a5 Level-0 table #283: started
+2019/02/11-20:21:29.419 8a5 Level-0 table #283: 56667 bytes OK
+2019/02/11-20:21:29.423 8a5 Delete type=0 #279
+2019/02/11-20:26:26.740 95b Level-0 table #285: started
+2019/02/11-20:26:26.747 95b Level-0 table #285: 76772 bytes OK
+2019/02/11-20:26:26.751 95b Delete type=0 #282
+2019/02/11-20:29:02.263 a22 Level-0 table #287: started
+2019/02/11-20:29:02.267 a22 Level-0 table #287: 81550 bytes OK
+2019/02/11-20:29:02.269 a22 Delete type=0 #284

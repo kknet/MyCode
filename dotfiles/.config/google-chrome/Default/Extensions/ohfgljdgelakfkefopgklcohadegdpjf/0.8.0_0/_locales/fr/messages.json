@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Outils PDF faciles à utiliser"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Compresser"
+   },
+   "converter": {
+      "message": "Convertir"
+   },
+   "delete": {
+      "message": "Supprimer les pages"
+   },
+   "downloadCta": {
+      "message": "Le télécharger maintenant"
+   },
+   "edit": {
+      "message": "Modifier"
+   },
+   "excel": {
+      "message": "Excel en PDF"
+   },
+   "extract": {
+      "message": "PDF en JPG"
+   },
+   "fileIsReady": {
+      "message": "Votre fichier est prêt"
+   },
+   "jpg": {
+      "message": "JPG en PDF"
+   },
+   "merge": {
+      "message": "Fusionner"
+   },
+   "noInternetConnection": {
+      "message": "Pas de connexion Internet"
+   },
+   "pdf_to_excel": {
+      "message": "PDF en Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF en PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF en Word"
+   },
+   "ppt": {
+      "message": "PPT en PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Malheureusement, un problème est survenu lors du traitement de votre fichier"
+   },
+   "processingFailedTitle": {
+      "message": "Échec du traitement"
+   },
+   "protect": {
+      "message": "Protéger"
+   },
+   "rotate": {
+      "message": "Pivoter"
+   },
+   "sign": {
+      "message": "Signer"
+   },
+   "split": {
+      "message": "Diviser"
+   },
+   "tools": {
+      "message": "Outils"
+   },
+   "unlock": {
+      "message": "Déverrouiller"
+   },
+   "uploadFailed": {
+      "message": "Désolé votre téléchargement vers le serveur a échoué"
+   },
+   "word": {
+      "message": "Word en PDF"
+   }
+}

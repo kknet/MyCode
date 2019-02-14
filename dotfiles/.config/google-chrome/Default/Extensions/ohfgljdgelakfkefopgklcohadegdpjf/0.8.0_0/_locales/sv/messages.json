@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Lättanvända PDF-verktyg"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Komprimera"
+   },
+   "converter": {
+      "message": "Konvertera"
+   },
+   "delete": {
+      "message": "Ta bort sidor"
+   },
+   "downloadCta": {
+      "message": "Ladda ner nu"
+   },
+   "edit": {
+      "message": "Redigera"
+   },
+   "excel": {
+      "message": "Excel till PDF"
+   },
+   "extract": {
+      "message": "PDF till JPG"
+   },
+   "fileIsReady": {
+      "message": "Din fil är redo"
+   },
+   "jpg": {
+      "message": "JPG till PDF"
+   },
+   "merge": {
+      "message": "Sammanfoga"
+   },
+   "noInternetConnection": {
+      "message": "Internetanslutning saknas"
+   },
+   "pdf_to_excel": {
+      "message": "PDF till Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF till PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF till Word"
+   },
+   "ppt": {
+      "message": "PPT till PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Tyvärr uppstod ett fel när din fil skulle behandlas"
+   },
+   "processingFailedTitle": {
+      "message": "Behandling kunde inte utföras"
+   },
+   "protect": {
+      "message": "Skydda"
+   },
+   "rotate": {
+      "message": "Rotera"
+   },
+   "sign": {
+      "message": "Skriv under"
+   },
+   "split": {
+      "message": "Dela"
+   },
+   "tools": {
+      "message": "Verktyg"
+   },
+   "unlock": {
+      "message": "Lås upp"
+   },
+   "uploadFailed": {
+      "message": "Uppladdningen misslyckades tyvärr"
+   },
+   "word": {
+      "message": "Word till PDF"
+   }
+}

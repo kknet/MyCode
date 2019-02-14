@@ -1,0 +1,83 @@
+{
+  "appName": {
+    "message": "Smallpdf"
+  },
+  "appDesc": {
+    "message": "Smallpdf - 易用的PDF工具"
+  },
+  "downloadCta": {
+    "message": "立即下载"
+  },
+  "fileIsReady": {
+    "message": "文件已就绪"
+  },
+  "processingFailedMessage": {
+    "message": "抱歉，处理文件时出现问题"
+  },
+  "processingFailedTitle": {
+    "message": "处理失败"
+  },
+  "uploadFailed": {
+    "message": "很抱歉，上传失败"
+  },
+  "noInternetConnection": {
+    "message": "无网络连线"
+  },
+  "tools": {
+    "message": "工具"
+  },
+  "compress": {
+    "message": "压缩"
+  },
+  "converter": {
+    "message": "PDF转换器"
+  },
+  "merge": {
+    "message": "合并"
+  },
+  "pdf_to_ppt": {
+    "message": "PDF转PPT"
+  },
+  "ppt": {
+    "message": "PPT转PDF"
+  },
+  "jpg": {
+    "message": "JPG转PDF"
+  },
+  "extract": {
+    "message": "PDF转JPG"
+  },
+  "excel": {
+    "message": "Excel转PDF"
+  },
+  "pdf_to_excel": {
+    "message": "PDF转Excel"
+  },
+  "delete": {
+    "message": "删除页面"
+  },
+  "edit": {
+    "message": "编辑"
+  },
+  "word": {
+    "message": "Word转PDF"
+  },
+  "split": {
+    "message": "拆分"
+  },
+  "rotate": {
+    "message": "旋转"
+  },
+  "sign": {
+    "message": "签署"
+  },
+  "unlock": {
+    "message": "解锁"
+  },
+  "protect": {
+    "message": "保护"
+  },
+  "pdf_to_word": {
+    "message": "PDF转Word"
+  }
+}

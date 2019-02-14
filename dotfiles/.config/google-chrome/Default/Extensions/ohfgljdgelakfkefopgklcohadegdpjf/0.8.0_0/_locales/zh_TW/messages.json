@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf  - 易於使用的 PDF 工具"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "壓縮"
+   },
+   "converter": {
+      "message": "轉換"
+   },
+   "delete": {
+      "message": "刪除頁面"
+   },
+   "downloadCta": {
+      "message": "立即下載"
+   },
+   "edit": {
+      "message": "編輯"
+   },
+   "excel": {
+      "message": "Excel轉PDF"
+   },
+   "extract": {
+      "message": "PDF轉JPG"
+   },
+   "fileIsReady": {
+      "message": "您的文件準備好了"
+   },
+   "jpg": {
+      "message": "JPG轉PDF"
+   },
+   "merge": {
+      "message": "合併"
+   },
+   "noInternetConnection": {
+      "message": "沒有網絡連接"
+   },
+   "pdf_to_excel": {
+      "message": "PDF轉Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF轉PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF轉Word"
+   },
+   "ppt": {
+      "message": "PPT轉PDF"
+   },
+   "processingFailedMessage": {
+      "message": "很抱歉，處理您的文件時出現問題"
+   },
+   "processingFailedTitle": {
+      "message": "處理失敗"
+   },
+   "protect": {
+      "message": "保護"
+   },
+   "rotate": {
+      "message": "旋轉"
+   },
+   "sign": {
+      "message": "簽署"
+   },
+   "split": {
+      "message": "分割"
+   },
+   "tools": {
+      "message": "工具"
+   },
+   "unlock": {
+      "message": "解鎖"
+   },
+   "uploadFailed": {
+      "message": "抱歉，上載失敗"
+   },
+   "word": {
+      "message": "Word轉PDF"
+   }
+}

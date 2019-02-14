@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Strumenti di facile utilizzo per PDF"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Comprimi"
+   },
+   "converter": {
+      "message": "Convertire"
+   },
+   "delete": {
+      "message": "Elimina Pages"
+   },
+   "downloadCta": {
+      "message": "Scaricalo adesso"
+   },
+   "edit": {
+      "message": "Modifica"
+   },
+   "excel": {
+      "message": "Excel in PDF"
+   },
+   "extract": {
+      "message": "PDF in JPG"
+   },
+   "fileIsReady": {
+      "message": "Il tuo file è pronto"
+   },
+   "jpg": {
+      "message": "JPG in PDF"
+   },
+   "merge": {
+      "message": "Unisci"
+   },
+   "noInternetConnection": {
+      "message": "Nessuna connessione internet"
+   },
+   "pdf_to_excel": {
+      "message": "PDF in Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF in PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF in Word"
+   },
+   "ppt": {
+      "message": "PPT in PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Si è verificato un problema durante l'elaborazione del file"
+   },
+   "processingFailedTitle": {
+      "message": "Elaborazione non riuscita"
+   },
+   "protect": {
+      "message": "Proteggi"
+   },
+   "rotate": {
+      "message": "Ruota"
+   },
+   "sign": {
+      "message": "Firma"
+   },
+   "split": {
+      "message": "Dividi"
+   },
+   "tools": {
+      "message": "Strumenti"
+   },
+   "unlock": {
+      "message": "Sblocca"
+   },
+   "uploadFailed": {
+      "message": "Spiacenti il tuo caricamento è fallito"
+   },
+   "word": {
+      "message": "Word in PDF"
+   }
+}

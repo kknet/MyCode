@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf – benutzerfreundliche PDF-Tools"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Komprimieren"
+   },
+   "converter": {
+      "message": "Umwandeln"
+   },
+   "delete": {
+      "message": "Seiten löschen"
+   },
+   "downloadCta": {
+      "message": "Jetzt herunterladen"
+   },
+   "edit": {
+      "message": "Bearbeiten"
+   },
+   "excel": {
+      "message": "Excel in PDF"
+   },
+   "extract": {
+      "message": "PDF in JPG"
+   },
+   "fileIsReady": {
+      "message": "Deine Datei ist bereit"
+   },
+   "jpg": {
+      "message": "JPG in PDF"
+   },
+   "merge": {
+      "message": "Zusammenführen"
+   },
+   "noInternetConnection": {
+      "message": "Keine Internetverbindung"
+   },
+   "pdf_to_excel": {
+      "message": "PDF in Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF in PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF in Word"
+   },
+   "ppt": {
+      "message": "PPT in PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Bei der Verarbeitung deiner Datei ist leider ein Fehler aufgetreten"
+   },
+   "processingFailedTitle": {
+      "message": "Verarbeitung fehlgeschlagen"
+   },
+   "protect": {
+      "message": "Schützen"
+   },
+   "rotate": {
+      "message": "Drehen"
+   },
+   "sign": {
+      "message": "Unterschreiben"
+   },
+   "split": {
+      "message": "Aufteilen"
+   },
+   "tools": {
+      "message": "Werkzeuge"
+   },
+   "unlock": {
+      "message": "Freischalten"
+   },
+   "uploadFailed": {
+      "message": "Die Datei konnte nicht hochgeladen werden"
+   },
+   "word": {
+      "message": "Word in PDF"
+   }
+}

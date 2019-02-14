@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Proste w obsłudze narzędzia do obróbki plików PDF"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Kompresja"
+   },
+   "converter": {
+      "message": "Konwertowanie"
+   },
+   "delete": {
+      "message": "Usuń Strony"
+   },
+   "downloadCta": {
+      "message": "Pobierz teraz"
+   },
+   "edit": {
+      "message": "Edycja"
+   },
+   "excel": {
+      "message": "Excel do PDF"
+   },
+   "extract": {
+      "message": "PDF do JPG"
+   },
+   "fileIsReady": {
+      "message": "Twój plik jest gotowy"
+   },
+   "jpg": {
+      "message": "JPG do PDF"
+   },
+   "merge": {
+      "message": "Scalanie"
+   },
+   "noInternetConnection": {
+      "message": "Brak połączenia internetowego"
+   },
+   "pdf_to_excel": {
+      "message": "PDF do Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF do PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF do Word"
+   },
+   "ppt": {
+      "message": "PPT do PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Przepraszamy, wystąpił problem podczas przetwarzania tego pliku"
+   },
+   "processingFailedTitle": {
+      "message": "Nie udało się przetworzyć pliku"
+   },
+   "protect": {
+      "message": "Zabezpiecz"
+   },
+   "rotate": {
+      "message": "Obróć"
+   },
+   "sign": {
+      "message": "Podpis"
+   },
+   "split": {
+      "message": "Podziel"
+   },
+   "tools": {
+      "message": "Przybory"
+   },
+   "unlock": {
+      "message": "Odblokuj"
+   },
+   "uploadFailed": {
+      "message": "Przepraszamy, nie udało się przesłać pliku"
+   },
+   "word": {
+      "message": "Word do PDF"
+   }
+}

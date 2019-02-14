@@ -1,0 +1,43 @@
+{
+   "app": {
+      "icon_color": "#1AAD19",
+      "launch": {
+         "web_url": "https://wx.qq.com/"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico"
+      }, {
+         "size": 48,
+         "url": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png"
+      }, {
+         "size": 64,
+         "url": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png"
+      }, {
+         "size": 96,
+         "url": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png"
+      }, {
+         "size": 128,
+         "url": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png"
+      }, {
+         "size": 180,
+         "url": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png"
+      }, {
+         "size": 256,
+         "url": "https://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png"
+      } ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "180": "icons/180.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "5zgpCjLz9zFP3DYg5oQGFDB2wATUDlvn9ePGnlymvUw=",
+   "name": "微信网页版",
+   "version": "2019.1.24.44842"
+}

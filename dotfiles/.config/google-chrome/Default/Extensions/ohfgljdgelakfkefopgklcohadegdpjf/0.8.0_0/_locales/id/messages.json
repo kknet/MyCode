@@ -1,0 +1,83 @@
+{
+   "appDesc": {
+      "message": "Smallpdf - Alat PDF ramah pengguna"
+   },
+   "appName": {
+      "message": "Smallpdf"
+   },
+   "compress": {
+      "message": "Kompres"
+   },
+   "converter": {
+      "message": "Pengonversi PDF"
+   },
+   "delete": {
+      "message": "Hapus Halaman"
+   },
+   "downloadCta": {
+      "message": "Unduh sekarang"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "excel": {
+      "message": "Excel ke PDF"
+   },
+   "extract": {
+      "message": "PDF ke JPG"
+   },
+   "fileIsReady": {
+      "message": "File Anda siap"
+   },
+   "jpg": {
+      "message": "JPG ke PDF"
+   },
+   "merge": {
+      "message": "Gabung"
+   },
+   "noInternetConnection": {
+      "message": "Tidak ada sambungan internet"
+   },
+   "pdf_to_excel": {
+      "message": "PDF ke Excel"
+   },
+   "pdf_to_ppt": {
+      "message": "PDF ke PPT"
+   },
+   "pdf_to_word": {
+      "message": "PDF ke Word"
+   },
+   "ppt": {
+      "message": "PPT ke PDF"
+   },
+   "processingFailedMessage": {
+      "message": "Maaf, ada masalah memproses file Anda"
+   },
+   "processingFailedTitle": {
+      "message": "Pemrosesan gagal"
+   },
+   "protect": {
+      "message": "Lindungi"
+   },
+   "rotate": {
+      "message": "Putar"
+   },
+   "sign": {
+      "message": "Tanda Tangan"
+   },
+   "split": {
+      "message": "Pecah"
+   },
+   "tools": {
+      "message": "Alat-alat"
+   },
+   "unlock": {
+      "message": "Buka Kunci"
+   },
+   "uploadFailed": {
+      "message": "Maaf, unggahan Anda gagal"
+   },
+   "word": {
+      "message": "Word ke PDF"
+   }
+}
